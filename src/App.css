@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+body{
+  font-family: "Inter",sans-serif;
+  background-color: #111;
+  color: #eee;
+}
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+  margin-top: 5vw;
+}
+
+input {
+  padding: 10px;
+  font-family: "Inter",sans-serif;
+  margin-right: 10px;
+}
+input:focus{
+  outline: none;
+}
+button {
+  padding: 10px;
+  font-family: "Inter",sans-serif;
+}
+
+h2 {
+  margin-top: 20px;
+}
